@@ -18,6 +18,7 @@ poetry install
 ```
 - Pre Commit
 ```
+poetry shell
 pre-commit install
 ```
 
